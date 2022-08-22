@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700737284979",
+    "project_id": "calendar-430f7",
+    "storage_bucket": "calendar-430f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700737284979:android:b795426c9b3c8d9360b306",
+        "android_client_info": {
+          "package_name": "com.example.montessory_calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700737284979-np25ml2psos0qg0bbhkchvk3n1van7dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXZRu5D3GKzGm909ECfWpDp41CJ-Kvzso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700737284979-np25ml2psos0qg0bbhkchvk3n1van7dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
